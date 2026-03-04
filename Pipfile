@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+pytest = "*"
+uvicorn = { version = "*", extras = ["standard"], platform = "win32" }
+requests = "*"
+httpx = "*"
+alembic = "*"
+sqlalchemy = "*"
+sqlmodel = "*"
+python-dotenv = "*"
+psycopg2-binary = "*"
+passlib = {extras = ["argon2"], version = "*"}
+python-jose = {extras = ["cryptography"], version = "*"}
+pydantic = {extras = ["email"], version = "*"}
+firebase-admin = "*"
+python-multipart = "*"
+pandas = "*"
+openpyxl = "*"
+loguru = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

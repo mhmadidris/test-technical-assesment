@@ -1,0 +1,17 @@
+[
+  {
+    "id": "0054bbf9-dbf7-4fec-ba38-c2110a700fc4",
+    "name": "admin",
+    "title": "admin"
+  },
+  {
+    "id": "420ec92d-1f4e-4304-a0b9-3ef51368f00a",
+    "name": "passenger",
+    "title": "passenger"
+  },
+  {
+    "id": "9fb03d2a-2d30-433b-b516-e11ddc4953b8",
+    "name": "driver",
+    "title": "driver"
+  }
+]
