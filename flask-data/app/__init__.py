@@ -21,7 +21,9 @@ def create_app(config_class=Config):
 
     # Register blueprints
     from app.routes.data import data_bp
+    from app.routes.customers import customers_bp
     app.register_blueprint(data_bp, url_prefix='/api/v1/data')
+    app.register_blueprint(customers_bp, url_prefix='/api/v1/customers')
 
     @app.route('/')
     def index():

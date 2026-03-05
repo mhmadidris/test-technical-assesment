@@ -10,7 +10,7 @@ def get_all_data():
     entries = DataEntry.query.all()
     return jsonify(data_entries_schema.dump(entries))
 
-@data_bp.route('/<uuid:id>', methods=['GET'])
+@data_bp.route('/<string:id>', methods=['GET'])
 def get_data(id):
     entry = DataEntry.query.get_or_404(id)
     return jsonify(data_entry_schema.dump(entry))

@@ -3,5 +3,6 @@ from app import create_app
 app = create_app()
 
 if __name__ == '__main__':
-    # Default port 5000 to avoid conflict with other services
-    app.run(host='0.0.0.0', port=5000)
+    # Running on port 5005
+    app.run(host='0.0.0.0', port=5005, debug=True)
+

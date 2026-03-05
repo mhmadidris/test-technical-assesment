@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+6281234567890",
+    "address": "Jl. Mawar No. 12, Jakarta",
+    "date_of_birth": "1990-05-15",
+    "account_balance": 1500000.0,
+    "created_at": "2023-01-10T08:30:00Z"
+  },
+  {
+    "customer_id": "CUST-002",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+6281234567891",
+    "address": "Jl. Melati No. 5, Bandung",
+    "date_of_birth": "1992-08-22",
+    "account_balance": 2750000.0,
+    "created_at": "2023-02-15T09:45:00Z"
+  },
+  {
+    "customer_id": "CUST-003",
+    "first_name": "Budi",
+    "last_name": "Santoso",
+    "email": "budi.santoso@example.id",
+    "phone": "+6281345678902",
+    "address": "Jl. Anggrek No. 8, Surabaya",
+    "date_of_birth": "1985-11-30",
+    "account_balance": 500000.0,
+    "created_at": "2023-03-05T10:15:00Z"
+  },
+  {
+    "customer_id": "CUST-004",
+    "first_name": "Siti",
+    "last_name": "Aminah",
+    "email": "siti.aminah@example.id",
+    "phone": "+6281345678903",
+    "address": "Jl. Kamboja No. 3, Yogyakarta",
+    "date_of_birth": "1995-02-14",
+    "account_balance": 1200000.0,
+    "created_at": "2023-04-20T11:00:00Z"
+  },
+  {
+    "customer_id": "CUST-005",
+    "first_name": "Andi",
+    "last_name": "Wijaya",
+    "email": "andi.wijaya@example.com",
+    "phone": "+6281456789044",
+    "address": "Jl. Kenanga No. 21, Semarang",
+    "date_of_birth": "1988-07-04",
+    "account_balance": 3500000.0,
+    "created_at": "2023-05-12T14:20:00Z"
+  },
+  {
+    "customer_id": "CUST-006",
+    "first_name": "Rina",
+    "last_name": "Pratama",
+    "email": "rina.pratama@example.id",
+    "phone": "+6281567890455",
+    "address": "Jl. Teratai No. 10, Malang",
+    "date_of_birth": "1993-12-25",
+    "account_balance": 850000.0,
+    "created_at": "2023-06-18T16:30:00Z"
+  },
+  {
+    "customer_id": "CUST-007",
+    "first_name": "Eko",
+    "last_name": "Susanto",
+    "email": "eko.susanto@example.com",
+    "phone": "+6281678904666",
+    "address": "Jl. Matahari No. 7, Solo",
+    "date_of_birth": "1982-04-10",
+    "account_balance": 10000000.0,
+    "created_at": "2023-07-01T08:00:00Z"
+  },
+  {
+    "customer_id": "CUST-008",
+    "first_name": "Dewi",
+    "last_name": "Lestari",
+    "email": "dewi.lestari@example.id",
+    "phone": "+6281789046777",
+    "address": "Jl. Cempaka No. 15, Bogor",
+    "date_of_birth": "1991-09-09",
+    "account_balance": 4200000.0,
+    "created_at": "2023-08-10T10:45:00Z"
+  },
+  {
+    "customer_id": "CUST-009",
+    "first_name": "Agus",
+    "last_name": "Kurniawan",
+    "email": "agus.kurniawan@example.com",
+    "phone": "+6281890467888",
+    "address": "Jl. Dahlia No. 4, Depok",
+    "date_of_birth": "1987-03-20",
+    "account_balance": 2100000.0,
+    "created_at": "2023-09-05T13:15:00Z"
+  },
+  {
+    "customer_id": "CUST-010",
+    "first_name": "Maya",
+    "last_name": "Sari",
+    "email": "maya.sari@example.id",
+    "phone": "+6281904678999",
+    "address": "Jl. Tulip No. 2, Tangerang",
+    "date_of_birth": "1994-06-12",
+    "account_balance": 300000.0,
+    "created_at": "2023-10-12T15:50:00Z"
+  },
+  {
+    "customer_id": "CUST-011",
+    "first_name": "Hendra",
+    "last_name": "Gunawan",
+    "email": "hendra.gunawan@example.com",
+    "phone": "+6281212121212",
+    "address": "Jl. Sakura No. 9, Bekasi",
+    "date_of_birth": "1984-10-05",
+    "account_balance": 6700000.0,
+    "created_at": "2023-11-20T17:10:00Z"
+  },
+  {
+    "customer_id": "CUST-012",
+    "first_name": "Linda",
+    "last_name": "Wati",
+    "email": "linda.wati@example.id",
+    "phone": "+6281313131313",
+    "address": "Jl. Bougenville No. 6, Medan",
+    "date_of_birth": "1996-01-25",
+    "account_balance": 1800000.0,
+    "created_at": "2023-12-05T09:20:00Z"
+  },
+  {
+    "customer_id": "CUST-013",
+    "first_name": "Taufik",
+    "last_name": "Hidayat",
+    "email": "taufik.hidayat@example.com",
+    "phone": "+6281414141414",
+    "address": "Jl. Flamboyan No. 11, Palembang",
+    "date_of_birth": "1980-08-08",
+    "account_balance": 15000000.0,
+    "created_at": "2024-01-15T11:40:00Z"
+  },
+  {
+    "customer_id": "CUST-014",
+    "first_name": "Sari",
+    "last_name": "Indah",
+    "email": "sari.indah@example.id",
+    "phone": "+6281515151515",
+    "address": "Jl. Lily No. 14, Makassar",
+    "date_of_birth": "1998-04-30",
+    "account_balance": 2200000.0,
+    "created_at": "2024-02-10T14:00:00Z"
+  },
+  {
+    "customer_id": "CUST-015",
+    "first_name": "Rudi",
+    "last_name": "Hermawan",
+    "email": "rudi.hermawan@example.com",
+    "phone": "+6281616161616",
+    "address": "Jl. Alamanda No. 18, Denpasar",
+    "date_of_birth": "1989-12-12",
+    "account_balance": 5500000.0,
+    "created_at": "2024-03-01T16:20:00Z"
+  },
+  {
+    "customer_id": "CUST-016",
+    "first_name": "Indra",
+    "last_name": "Kusuma",
+    "email": "indra.kusuma@example.id",
+    "phone": "+6281717171717",
+    "address": "Jl. Aster No. 25, Balikpapan",
+    "date_of_birth": "1992-03-15",
+    "account_balance": 3100000.0,
+    "created_at": "2024-04-15T08:50:00Z"
+  },
+  {
+    "customer_id": "CUST-017",
+    "first_name": "Ani",
+    "last_name": "Mulyani",
+    "email": "ani.mulyani@example.com",
+    "phone": "+6281818181818",
+    "address": "Jl. Edelweiss No. 1, Pontianak",
+    "date_of_birth": "1986-06-20",
+    "account_balance": 900000.0,
+    "created_at": "2024-05-20T10:30:00Z"
+  },
+  {
+    "customer_id": "CUST-018",
+    "first_name": "Bambang",
+    "last_name": "Yudho",
+    "email": "bambang.yudho@example.id",
+    "phone": "+6281919191919",
+    "address": "Jl. Gardenia No. 19, Banjarmasin",
+    "date_of_birth": "1983-01-10",
+    "account_balance": 7500000.0,
+    "created_at": "2024-06-01T12:00:00Z"
+  },
+  {
+    "customer_id": "CUST-019",
+    "first_name": "Ratna",
+    "last_name": "Dewi",
+    "email": "ratna.dewi@example.com",
+    "phone": "+6281222222222",
+    "address": "Jl. Hibiscus No. 22, Manado",
+    "date_of_birth": "1997-11-05",
+    "account_balance": 4800000.0,
+    "created_at": "2024-07-10T15:10:00Z"
+  },
+  {
+    "customer_id": "CUST-020",
+    "first_name": "Yanto",
+    "last_name": "Sugianto",
+    "email": "yanto.sugianto@example.id",
+    "phone": "+6281333333333",
+    "address": "Jl. Ixora No. 30, Jayapura",
+    "date_of_birth": "1981-05-25",
+    "account_balance": 12500000.0,
+    "created_at": "2024-08-01T17:45:00Z"
+  }
+]

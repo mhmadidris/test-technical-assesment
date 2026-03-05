@@ -5,7 +5,7 @@ class DataEntrySchema(ma.SQLAlchemyAutoSchema):
     class Meta:
         model = DataEntry
         load_instance = True
-        include_fk = True
+        sqla_session = None
 
 data_entry_schema = DataEntrySchema()
 data_entries_schema = DataEntrySchema(many=True)
